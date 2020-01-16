@@ -2,7 +2,6 @@
 layout: post
 author: Bas
 ---
-First blogpost testing out the jekyll blogging platform for blogging usability
+First blogpost; testing out the jekyll blogging platform for usability.
 
-https://jekyllrb.com/docs/step-by-step/08-blogging/
-
+[jekyll step by step....](https://jekyllrb.com/docs/step-by-step/)
