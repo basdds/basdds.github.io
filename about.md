@@ -36,7 +36,7 @@ Short Resume:
 
 * [Facebook: https://www.facebook.com/bas.dds.nl](https://www.facebook.com/bas.dds.nl){:target="_blank"}
 
-* [Linkedin](https://www.linkedin.com/in/bas-janssen-0422bb8a/){:target="_blank"} - I seldomly check my linkedin page; better contact me via ^^ 
+* [Linkedin](https://www.linkedin.com/in/bas-janssen-0422bb8a/){:target="_blank"} - I rarely check my linkedin page; better contact me via ^^ 
 
 
 
