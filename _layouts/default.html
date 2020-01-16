@@ -34,9 +34,16 @@
 
   </head>
   <body class="terminal">
-    {% include navigation.html %}
+   <div class="container">
+     <div class="terminal-nav">
+     {% include navigation.html %}
+     </div>
+   </div>
+   <div class="container">
     {{ content }}
-    {% include footer.html %}
 
-  </body>
+
+    {% include footer.html %}
+   </div> 
+   </body>
 </html>
