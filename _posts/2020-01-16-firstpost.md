@@ -9,7 +9,7 @@ Having a static blogging CMS without having to use wordpress is **great**! I rea
 ## Jekyll PRO's: 
 
 * Jekyll creates a static HTML website. No server side scripting needed!
-* No database requred. All your posts are just 'flat' textfiles.
+* Also NO database required! All your posts are just 'flat' textfiles.
 * Secure! No endless CMS security-updates required! 
 * Can be used with free webhosting via github pages (see link in footer)
 * Edit your posts in **markdown**.
