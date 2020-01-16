@@ -1,7 +1,7 @@
 - name: Home | 
   link: /
-- name: Blog | 
+- name: All blog posts | 
   link: /blog.html
-- name: About me | 
+- name: /whois bas | 
   link: /about.html
 
