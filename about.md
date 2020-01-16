@@ -26,7 +26,7 @@ Short Resume:
 
 * As of 2019 I work for ['team.blue'](https://team.blue/){:target="_blank"} 
 
-# Personal interests and hobbies
+# Personal interests and hobby's
 
 * Tinkering with computers and (open source!) software, Photography, Video, Music, etc etc.   
 
