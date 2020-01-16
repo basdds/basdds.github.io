@@ -4,7 +4,7 @@ author: Bas
 ---
 Here are some links that might be usefull when starting with the Jekyll blogging system: 
 
-[Getting started with Yekyll](https://jekyllrb.com/docs/step-by-step/01-setup/){:target="_blank"}
+[Getting started with Jekyll](https://jekyllrb.com/docs/step-by-step/01-setup/){:target="_blank"}
 
 [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/){:target="_blank"}
 
