@@ -2,7 +2,7 @@
 layout: post
 author: Bas
 ---
-A simple PHP script, for displaying randomly-chosen pictures on my 6 PiWall nodes. 
+'php-pi-photowall' - A simple PHP script for displaying randomly-chosen pictures on my 6 PiWall nodes. 
 
 ![image](/assets/images/piwall.jpg)
 
@@ -16,31 +16,47 @@ A [video](https://www.youtube.com/watch?v=Kru--U1kRy8){:target="_blank"} of what
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kru--U1kRy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
-And how it was built; using some wood for a supporting frame... :-) 
+And how it was built, using some wood for a frame supporting the 6 moniotors: 
 
 [FB Photo album 'piwall'](https://www.facebook.com/bas.dds.nl/media_set?set=a.1429959373697741.1073741893.100000510777171&type=1&l=a61e0e0002){:target="_blank"}
 
 ![image](/assets/images/piwall2.jpg)
 
-The video streaming is fun! However.. All Pi's also have a full desktop with a web browser. Each Pi-Screen is running the Ubuntu-Mate distro.
+The video streaming is fun! However.. All Pi's also have a full desktop with a web browser. Each Pi-Screen is running the [Ubuntu-Mate distro.](https://ubuntu-mate.org/raspberry-pi/){:target="_blank"}
 
-I was looking for a easy way to show a collection of (20k) pictures ramdomly on each screen, so I've made this PHP script.
+I was looking for a easy way to show a collection of (+25.000) pictures, ramdomly on each screen. Tried making this work with the [Linux framebuffer imageviewer](https://manpages.ubuntu.com/manpages/bionic/man1/fbi.1.html){:target="_blank"} but 'fbi' randomly crashed often, when used with a list of picture files this large.  
 
-[Github repo for the Rasperry PI 'photowall'](https://github.com/basdds/php-pi-photowall){:target="_blank"}
-
-**Usage** 
-
-On any PHP capable webserver; download the repo in the documentroot and create this (example) folder structure:
+So eventually I decided to made a PHP script that does something like: 
 
 ```
+$pics_list = glob("/var/www/frame/photowall/*");
+$length_list = count($pics_list);
+$random_nr = rand(0, $length_list-1);
+$image = $pics_list[$random_nr];
+... etc, etc 
+
+>>> Output some html with a <img src="<?php echo $image; ?>"> + a meta-refresh.
+``` 
+
+And use the browser on all pi's for displaying my image collection. This proved to work very well for me!
+
+Sharing is caring, so I've put this on gitlab: [Github repo for the Rasperry PI 'photowall' script](https://github.com/basdds/php-pi-photowall){:target="_blank"}
+
+Little disclaimer: I'm not a php/html/js-coder @dayjob... So the only browser I've used/tested this on is Firefox! If you have comments or code suggestions? Click /whois ^^ for contact info, or leave me an issue on github!
+
+Example 'website' using this script is: [https://www.mister-p.nl/](https://www.mister-p.nl/){:target="_blank"} 
+
+**Usage**
+
+On any PHP capable webserver; download the repo in the documentroot and create this folder structure:
+
 /var/www/frame
 /var/www/frame/photowall
-```
 
-I suggest using one of the Pi's on your local network running this webserver; for faster content delivery.
+I suggest using one of the Pi's on your local network, for running this webserver. For fast **local** content delivery. (I use Nginx + php-fpm on #wall1) 
 
 Put your collection of pictures in the folder 'photowall' and the PHP script + jquery.min.js file in the main folder. (in this example /var/www/frame/ is my local webserver's DocumentRoot)
 
-Then fire up your browser(s) to point it at your webserver + F-11!
+Then fire up your browser(s) to point it at your webserver + F-11! (or script this with xdotool) 
 
 When cloning this repo, you'll only need the index.php and jquery.min.js file. The 'photowall' folder contains some example pictures, just for demonstration. 
