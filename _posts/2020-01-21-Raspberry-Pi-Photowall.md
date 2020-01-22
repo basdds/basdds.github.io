@@ -8,7 +8,7 @@ author: Bas
 
 **What is a 'piwall'??** 
 
-A few years ago, I've built a 3*2 'PiWall'; A grid of 6 old 19' Monitors, each having a Raspberry Pi behind it. 
+In 2016 I've built a 3*2 'PiWall'; A grid of 6 old 19' Monitors, each having a Raspberry Pi behind it. 
 
 This PiWall is capable of running the [Piwall](http://www.piwall.co.uk/){:target="_blank"} video streaming software. 
 
