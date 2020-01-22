@@ -16,7 +16,7 @@ A [video](https://www.youtube.com/watch?v=Kru--U1kRy8){:target="_blank"} of what
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kru--U1kRy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
-And how it was built, using some wood for a frame supporting the 6 moniotors: [FB Photo album 'piwall'](https://www.facebook.com/bas.dds.nl/media_set?set=a.1429959373697741.1073741893.100000510777171&type=1&l=a61e0e0002){:target="_blank"}
+And how it was built, using some wood for a frame. Supporting the 6 moniotors: [FB Photo album 'piwall'](https://www.facebook.com/bas.dds.nl/media_set?set=a.1429959373697741.1073741893.100000510777171&type=1&l=a61e0e0002){:target="_blank"}
 
 ![image](/assets/images/piwall2.jpg)
 
