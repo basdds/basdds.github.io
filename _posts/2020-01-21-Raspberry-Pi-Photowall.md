@@ -2,7 +2,7 @@
 layout: post
 author: Bas
 ---
-'php-pi-photowall' - A simple PHP script for displaying randomly-chosen pictures on my 6 PiWall nodes. 
+['php-pi-photowall'](https://github.com/basdds/php-pi-photowall){:target="_blank"} - A simple PHP script for displaying randomly-chosen pictures on my 6 PiWall nodes. 
 
 ![image](/assets/images/piwall.jpg)
 
