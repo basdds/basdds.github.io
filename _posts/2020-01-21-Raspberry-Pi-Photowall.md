@@ -4,8 +4,6 @@ author: Bas
 ---
 A simple PHP script, for displaying randomly-chosen pictures on my 6 PiWall nodes. 
 
-[Github repo for the Rasperry PI 'photowall'](https://github.com/basdds/php-pi-photowall){:target="_blank"}
-
 ![image](/assets/images/piwall.jpg)
 
 **What is a 'piwall'??** 
@@ -25,6 +23,8 @@ And how it was built, using some wood for a supporting frame :-)
 The video streaming is fun! However.. All Pi's also have a full desktop with a web browser. Each Pi-Screen is running the Ubuntu-Mate distro.
 
 I was looking for a easy way to show a collection of (20k) pictures ramdomly on each screen, so I've made this PHP script.
+
+[Github repo for the Rasperry PI 'photowall'](https://github.com/basdds/php-pi-photowall){:target="_blank"}
 
 **Usage** 
 
