@@ -8,7 +8,7 @@ A simple PHP script, for displaying randomly-chosen pictures on my 6 PiWall node
 
 ![image](/assets/images/piwall.jpg)
 
-**About this Script** 
+**What is a 'piwall'??** 
 
 A few years ago, I've built a 3*2 'PiWall'; A grid of 6 old 19' Monitors, each having a Raspberry Pi behind it. 
 
