@@ -22,7 +22,7 @@ And how it was built, using some wood for a frame. Supporting the 6 moniotors: [
 
 The video streaming is fun! However.. All Pi's also have a full (lightdm) desktop, with a web browser installed. Each Pi-Screen is running the [Ubuntu-Mate distro.](https://ubuntu-mate.org/raspberry-pi/){:target="_blank"}
 
-I was looking for a easy way to show a collection of (+25.000) pictures, ramdomly on each screen. Tried making this work with the [Linux framebuffer imageviewer](https://manpages.ubuntu.com/manpages/bionic/man1/fbi.1.html){:target="_blank"} but 'fbi' randomly crashed often, when used with a list of picture files this large.  
+I was looking for a easy way to show a collection of +25.000 pictures, ramdomly on each screen. Tried making this work with the [Linux framebuffer imageviewer](https://manpages.ubuntu.com/manpages/bionic/man1/fbi.1.html){:target="_blank"} but 'fbi' randomly crashed often, when used with a list of picture files this large.  
 
 So eventually I decided to made a PHP script that does something like: 
 
