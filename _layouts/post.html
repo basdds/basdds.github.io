@@ -5,3 +5,17 @@ layout: default
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 {{ content }}
+
+
+
+----------------------<br/>
+  
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    previous post: <a class="" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    next post: <a class="" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>
+
