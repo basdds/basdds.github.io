@@ -18,7 +18,7 @@ Having a static blogging CMS without having to use wordpress is **great**! I rea
 
 ## Jekyll CON's: 
 
-* Slight learing curve.... (see the next post for some getting-started links) 
+* Slight learing curve.... 
 * No 'administrator 'GUI', all editing is done via texfiles / the command line (no problem for me, but might put some people off..)  
 * Deployment of posts to github-pages takes a while for your changes to be 'live'. 
 
