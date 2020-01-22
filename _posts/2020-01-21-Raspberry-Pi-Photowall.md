@@ -28,7 +28,7 @@ I was looking for a easy way to show a collection of (20k) pictures ramdomly on 
 
 **Usage** 
 
-On any PHP capable webserver; download the repo in the documentroot, or create this (example) folder structure:
+On any PHP capable webserver; download the repo in the documentroot and create this (example) folder structure:
 
 ```
 /var/www/frame
