@@ -50,8 +50,10 @@ Example 'website' using this script is: [https://www.mister-p.nl/](https://www.m
 
 On any PHP capable webserver; download the repo in the documentroot and create this folder structure:
 
+```
 /var/www/frame
 /var/www/frame/photowall
+```
 
 I suggest using one of the Pi's on your local network, for running this webserver. For fast **local** content delivery. (I use Nginx + php-fpm on #wall1) 
 
