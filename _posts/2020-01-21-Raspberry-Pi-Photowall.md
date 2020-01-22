@@ -20,7 +20,7 @@ And how it was built, using some wood for a frame. Supporting the 6 moniotors: [
 
 ![image](/assets/images/piwall2.jpg)
 
-The video streaming is fun! However.. All Pi's also have a full desktop with a web browser. Each Pi-Screen is running the [Ubuntu-Mate distro.](https://ubuntu-mate.org/raspberry-pi/){:target="_blank"}
+The video streaming is fun! However.. All Pi's also have a full (lightdm) desktop, with a web browser installed. Each Pi-Screen is running the [Ubuntu-Mate distro.](https://ubuntu-mate.org/raspberry-pi/){:target="_blank"}
 
 I was looking for a easy way to show a collection of (+25.000) pictures, ramdomly on each screen. Tried making this work with the [Linux framebuffer imageviewer](https://manpages.ubuntu.com/manpages/bionic/man1/fbi.1.html){:target="_blank"} but 'fbi' randomly crashed often, when used with a list of picture files this large.  
 
@@ -60,3 +60,4 @@ Put your collection of pictures in the folder 'photowall' and the PHP script + j
 Then fire up your browser(s) to point it at your webserver + F-11! (or script this with xdotool) 
 
 When cloning this repo, you'll only need the index.php and jquery.min.js file. The 'photowall' folder contains some example pictures, just for demonstration. 
+
