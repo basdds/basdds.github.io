@@ -48,7 +48,7 @@ Example 'website' using this script is: [https://www.mister-p.nl/](https://www.m
 
 **Usage**
 
-On any PHP capable webserver; download the repo in the documentroot and create this folder structure:
+On any PHP capable webserver; download the repo in the documentroot of your webserver and create this folder structure:
 
 ```
 /var/www/frame
