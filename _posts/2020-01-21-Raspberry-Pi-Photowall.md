@@ -6,17 +6,19 @@ A simple PHP script, for displaying randomly-chosen pictures on my 6 PiWall node
 
 [Github repo for the Rasperry PI 'photowall'](https://github.com/basdds/php-pi-photowall){:target="_blank"}
 
+![image](/assets/images/piwall.jpg)
+
 **About this Script** 
 
 A few years ago, I've built a 6*2 'PiWall'; A grid of 6 old 19' Monitors, each having a Raspberry Pi behind it. 
 
-This PiWall is capable of running the [Piwall](http://www.piwall.co.uk/) video streaming software. 
+This PiWall is capable of running the [Piwall](http://www.piwall.co.uk/){:target="_blank"} video streaming software. 
 
-See [this youtube video](https://www.youtube.com/watch?v=Kru--U1kRy8) for what this 'piwall' can do. 
+See [this youtube video](https://www.youtube.com/watch?v=Kru--U1kRy8){:target="_blank"} for what this 'piwall' can do. 
 
 And how it was built, using some wood for a supporting frame :-) 
 
-[FB Photo album 'piwall'](https://www.facebook.com/bas.dds.nl/media_set?set=a.1429959373697741.1073741893.100000510777171&type=1&l=a61e0e0002)
+[FB Photo album 'piwall'](https://www.facebook.com/bas.dds.nl/media_set?set=a.1429959373697741.1073741893.100000510777171&type=1&l=a61e0e0002){:target="_blank"}
 
 The video streaming is fun! However.. All Pi's also have a full desktop with a web browser. Each Pi-Screen is running the Ubuntu-Mate distro.
 
