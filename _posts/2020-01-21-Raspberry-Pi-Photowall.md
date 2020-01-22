@@ -10,7 +10,8 @@ author: Bas
 
 In 2016 I've built a 3*2 'PiWall'; A grid of 6 old 19' Monitors, each having a Raspberry Pi behind it. 
 
-This PiWall is capable of running the [Piwall](http://www.piwall.co.uk/){:target="_blank"} video streaming software. 
+This PiWall is capable of running the [Piwall](http://www.piwall.co.uk/){:target="_blank"} video software, open sourced in 2013.
+The software enables you to 'split' a UDP multicast video stream, to different 'receiving' nodes. So multiple monitors can devide and display the same video source.      
 
 A [video](https://www.youtube.com/watch?v=Kru--U1kRy8){:target="_blank"} of what this piwall can do:  
 
