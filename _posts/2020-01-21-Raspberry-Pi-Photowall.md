@@ -12,9 +12,11 @@ A few years ago, I've built a 3*2 'PiWall'; A grid of 6 old 19' Monitors, each h
 
 This PiWall is capable of running the [Piwall](http://www.piwall.co.uk/){:target="_blank"} video streaming software. 
 
-See [this youtube video](https://www.youtube.com/watch?v=Kru--U1kRy8){:target="_blank"} for what this 'piwall' can do. 
+A [video](https://www.youtube.com/watch?v=Kru--U1kRy8){:target="_blank"} of what this piwall can do:  
 
-And how it was built, using some wood for a supporting frame :-) 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kru--U1kRy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+
+And how it was built; using some wood for a supporting frame... :-) 
 
 [FB Photo album 'piwall'](https://www.facebook.com/bas.dds.nl/media_set?set=a.1429959373697741.1073741893.100000510777171&type=1&l=a61e0e0002){:target="_blank"}
 
