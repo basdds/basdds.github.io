@@ -20,6 +20,8 @@ And how it was built, using some wood for a supporting frame :-)
 
 [FB Photo album 'piwall'](https://www.facebook.com/bas.dds.nl/media_set?set=a.1429959373697741.1073741893.100000510777171&type=1&l=a61e0e0002){:target="_blank"}
 
+![image](/assets/images/piwall2.jpg)
+
 The video streaming is fun! However.. All Pi's also have a full desktop with a web browser. Each Pi-Screen is running the Ubuntu-Mate distro.
 
 I was looking for a easy way to show a collection of (20k) pictures ramdomly on each screen, so I've made this PHP script.
