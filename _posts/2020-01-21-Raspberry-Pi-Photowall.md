@@ -44,7 +44,7 @@ Little disclaimer: I'm not a php/html/js-coder @dayjob... So the only browser I'
 
 Example 'website' using this script is: [https://www.mister-p.nl/](https://www.mister-p.nl/){:target="_blank"} - I really DO miss this little guy!... Every day! :-(  
 
-**Usage**
+**Usage:**
 
 On any PHP capable webserver; download the repo in the documentroot of your webserver and create this folder structure:
 
