@@ -40,11 +40,11 @@ $image = $pics_list[$random_nr];
 
 And use the browser on all pi's for displaying my image collection. This proved to work very well for me!
 
-Sharing is caring, so I've put this on gitlab: [Github repo for the Rasperry PI 'photowall' script](https://github.com/basdds/php-pi-photowall){:target="_blank"}
+Sharing is caring, so I've put this online: [Github repo for the Rasperry PI 'photowall' script](https://github.com/basdds/php-pi-photowall){:target="_blank"}
 
 Little disclaimer: I'm not a php/html/js-coder @dayjob... So the only browser I've used/tested this on is Firefox! If you have comments or code suggestions? Click /whois ^^ for contact info, or leave me an issue on github!
 
-Example 'website' using this script is: [https://www.mister-p.nl/](https://www.mister-p.nl/){:target="_blank"} 
+Example 'website' using this script is: [https://www.mister-p.nl/](https://www.mister-p.nl/){:target="_blank"} - I really DO miss this little guy!... Every day! :-(  
 
 **Usage**
 
