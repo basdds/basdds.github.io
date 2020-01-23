@@ -43,7 +43,7 @@ Sharing is caring, so I've put this online: [Github repo for the Rasperry PI 'ph
 
 Little disclaimer: I'm not a php/html/js-coder @dayjob... So the only browser I've used/tested this on is Firefox! If you have comments or code suggestions? Click /whois ^^ for contact info, or leave me an issue on github!
 
-Example 'website' using this script is: [https://www.mister-p.nl/](https://www.mister-p.nl/){:target="_blank"} - I really DO miss this little guy!... Every day! :-(  
+Example 'website' using this script is: [https://www.mister-p.nl/](https://www.mister-p.nl/){:target="_blank"} - I really DO miss this little guy!... :-(  
 
 **Usage:**
 
