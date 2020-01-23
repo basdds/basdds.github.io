@@ -8,7 +8,7 @@ I use Netdata for monitoring the performance of my (private) VPS server(s):
 
 ![image](/assets/images/netdata.png)
 
-Netdata is really lightweight and can give you a instant vieuw on how your vps / server is performing. I totally recommend it!
+Netdata is really lightweight and can give you a instant view on how your vps / server is performing. I totally recommend it!
 
 [Netdata blog: Introducing Netdata’s step-by-step tutorial](https://blog.netdata.cloud/posts/step-by-step-tutorial/){:target="_blank"} 
 
