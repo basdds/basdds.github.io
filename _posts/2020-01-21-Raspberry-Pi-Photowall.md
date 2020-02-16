@@ -62,3 +62,8 @@ Then fire up your browser(s) to point it at your webserver + F-11! (or script th
 
 When cloning this repo, you'll only need the index.php and jquery.min.js file. The 'photowall' folder contains some example pictures, just for demonstration. 
 
+Update 16-02-20: I found out that the PHP rand() function was flawed on the (used distro provided) PHP version, running on my Pi's. 
+
+Replacing it with the 'mersenne twister' mt_rand() function, increased the 'randomness' of the displayed pictures quite a bit!  
+
+ I noteced this  
