@@ -66,4 +66,3 @@ Update 16-02-20: I found out that the PHP rand() function was flawed on the (use
 
 Replacing it with the 'mersenne twister' mt_rand() function, increased the 'randomness' of the displayed pictures quite a bit!  
 
- I noteced this  
