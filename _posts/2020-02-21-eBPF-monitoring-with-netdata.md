@@ -4,7 +4,7 @@ author: Bas
 ---
 Today a new 'Netdata' version was released; version 1.20. [(release notes here)](https://blog.netdata.cloud/posts/release-1.20/){:target="_blank"}
 
-As stated before, I use Netdata for monitoring the performance of my (private) VPS server(s) 
+As stated [before](https://bas.rel.nl/2020/01/23/New-Netdata-documentation.html), I use Netdata for monitoring the performance of my (private) VPS server(s) 
 
 One of the most exiting new features in this new release is support for 'Linux eBPF monitoring'.
 
