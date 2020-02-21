@@ -8,14 +8,18 @@ layout: default
 
 
 
-----------------------<br/>
+<br/>
+<br/>
   
 <div class="PageNavigation">
   {% if page.previous.url %}
-    previous post: <a class="" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    | previous post: <a class="" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> | 
   {% endif %}
   {% if page.next.url %}
-    next post: <a class="" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
+    next post: <a class="" href="{{page.next.url}}">{{page.next.title}} &raquo;</a> 
+  {% endif %} 
+| <a class="" href="https://bas.rel.nl/blog.html">all posts</a> |
+
+
 </div>
 
