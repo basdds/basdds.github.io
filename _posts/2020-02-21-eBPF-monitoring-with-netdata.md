@@ -26,4 +26,4 @@ A few links:
 [Learn eBPF tracing](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html){:target="_blank"}
  
 
-p.s. "Haven't posted here in a month now, and again about netdata??".... Yes I know! :-) 
+p.s. "Haven't posted here in a month now, and again about netdata??" .... Yes I know! :-) 
