@@ -4,7 +4,7 @@ title: About me
 ---
 # /whois Bas Janssen? 
 
-Hi, my name is Bas.. Nice to meet you! :-) 
+Hi, I'm Bas. Nice to meet you! 
 
 Short Resume: 
 
