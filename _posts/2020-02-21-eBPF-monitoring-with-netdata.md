@@ -8,11 +8,14 @@ As stated before, I use Netdata for monitoring the performance of my (private) V
 
 One of the most exiting new features in this new release is support for 'Linux eBPF monitoring'.
 
-With [eBPF](https://lwn.net/Articles/740157/){:target="_blank"} you can monitor a lot of kernel functions in real time. Useful for debugging applications running on your linux machines.
+With [eBPF](https://lwn.net/Articles/740157/){:target="_blank"} you can monitor a lot of kernel functions in real time. 
+Useful for debugging applications running on your linux machines.
 
-I won't be able to test it now (still running a kernel < required on my VPS) but this might come in handy someday! 
+I won't be able to test it just now (LTS kernel < required on my VPS now) but this might come in handy someday! 
 
-Do note though "Because it adds overhead to the system running it, the collector is also disabled by default."....  
+Do not miss this note in the docs though: "Because it adds overhead to the system running it, the collector is also 
+disabled by default"... 
+ 
 
 A few links:
 
@@ -22,4 +25,5 @@ A few links:
 
 [Learn eBPF tracing](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html){:target="_blank"}
  
-....
+
+p.s. "Haven't posted here in a month now, and again about netdata??".... Yes I know! :-) 
