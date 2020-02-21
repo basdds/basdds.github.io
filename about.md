@@ -28,7 +28,7 @@ Short Resume:
 
 # Personal interests and hobby's
 
-* Tinkering with computers and (open source!) software, Photography, Video, Music, etc etc.   
+* Tinkering with computers and (open source!) software, Photography, Video, Music, etc.   
 
 # Contact info: 
 
