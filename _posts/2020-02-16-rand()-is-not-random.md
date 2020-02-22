@@ -18,7 +18,7 @@ Ignored this for a long time, until this really started nagging me a lot!
 
 Eventually I realized the 'random slideshow' code-part for this thing, was written by me in PHP... Some 12 to 14 years ago!
 
-So the PHP script running on my 'php-pi-photowall' (LTS Ubuntu-mate webserver, running PHP 5.x) was using the PHP rand() function. 
+So the PHP script running on my [php-pi-photowall](https://github.com/basdds/php-pi-photowall){:target="_blank"} (LTS Ubuntu-mate webserver, running PHP 5.x) was using the PHP rand() function. 
 
 Using PHP rand() was quite common, in the PHP 4/5 days. However, rand() was flawed and replaced by 'mersenne twister' 
 mt_rand(). But even in PHP 7.2 the mt_rand() function had received a fix for a modulo bias bug.
