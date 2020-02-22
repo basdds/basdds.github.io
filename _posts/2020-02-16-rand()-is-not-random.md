@@ -7,12 +7,12 @@ A short story about PHP's rand():
 In [my second posts here](https://bas.rel.nl/2020/01/21/Raspberry-Pi-Photowall.html){:target="_blank"} I described my 3*2 screen 'piwall' setup, used 
 as a big 'photo-frame'.
 
-![image](/assets/images/piwall.jpg)  
+![image](/assets/images/piwall2.jpg)  
 
 However... I Noticed something was 'off' with the 'randomness' of the displayed pictures!
 
 Seeing the same photo's on a almost daily basis, over and over again? While using a 'library' of about +25.000 pictures? 
-Never seeing some pictures I *knew* where in the colection? Something surely had to be wrong?! 
+Never seeing some pictures I *knew* where in the colection??? Something surely had to be wrong! 
 
 Ignored this for a long time, until this really started nagging me a lot! 
 
@@ -33,4 +33,4 @@ So my lessons learned are:
 
 * Your eyes and brain are *really good* at spotting non-randomness in a 6-screen picture slide-show! :-)  
 
-* I have to update all my Raspberry Pi's to a newer distro! 
+* I have to update all my Raspberry Pi's to a newer distro, running a  
