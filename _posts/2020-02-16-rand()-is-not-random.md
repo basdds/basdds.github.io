@@ -23,14 +23,14 @@ So the PHP script running on my 'php-pi-photowall' (LTS Ubuntu-mate webserver, r
 Using PHP rand() was quite common, in the PHP 4/5 days. However, rand() was flawed and replaced by 'mersenne twister' 
 mt_rand(). But even in PHP 7.2 the mt_rand() function had received a fix for a modulo bias bug.
 
-Eventually random_int() was introduced as the only function to generate cryptographically secure pseudo-random integers in PHP7
+Eventually random_int() was introduced as the only function to generate 'cryptographically secure pseudo-random integers' in PHP7
 
 So my lessons learned are: 
 
 * Don't re-use your old code, without looking at how it's language built-in functions have evolved over the years!
 
-* Randomness is a *very complicated* subject in computing!! 
+* Randomness is a *very complicated* subject! 
 
-* Your eyes and brain are *really good* at spotting non-randomness in a 6-screen picture slide-show! :-)  
+* Your eyes and brain are *really good* at spotting non-randomness in a 6-screen picture slide-show!  
 
-* I have to update all my (lan!) Raspberry Pi's to a newer distro, providing at least php 7.2! 
+* 2do: Take a deeper dive into the HRNG capabilties of the Pi! [article on this](http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/)
