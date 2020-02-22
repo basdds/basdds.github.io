@@ -33,4 +33,4 @@ So my lessons learned are:
 
 * Your eyes and brain are *really good* at spotting non-randomness in a 6-screen picture slide-show!  
 
-* 2do: Take a deeper dive into the HRNG capabilties of the Pi! [article on this](https://bitnuts.de/articles/using_hw_rng_raspberry.html)
+* 2do: Take a deeper dive into the HRNG capabilties of the Pi! [lwn article on this](https://lwn.net/Articles/808921/)
