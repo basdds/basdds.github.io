@@ -25,12 +25,12 @@ The video streaming is fun! However.. All Pi's also have a full (lightdm) deskto
 
 I was looking for a easy way to show a collection of +25.000 pictures, ramdomly on each screen. Tried making this work with the [Linux framebuffer imageviewer](https://manpages.ubuntu.com/manpages/bionic/man1/fbi.1.html){:target="_blank"} but 'fbi' randomly crashed often, when used with a list of picture files this large.  
 
-So eventually I decided to made a PHP script that does something like: 
+So eventually I used a PHP script that does something like: 
 
 ```
 $pics_list = glob("/var/www/frame/photowall/*");
 $length_list = count($pics_list);
-$random_nr = rand(0, $length_list-1);
+$random_nr = random_int(0, $length_list-1);
 $image = $pics_list[$random_nr];
 ... etc, etc 
 
@@ -67,5 +67,5 @@ When cloning this repo, you'll only need the index.php and jquery.min.js file. T
 I found that the rand() function was flawed on the (used distro provided) PHP version, running on my Pi's.. 
 
 Replacing it with the random_int() function, increased the 'randomness' of the displayed pictures quite a bit! 
-Without a noticable performance hit.  
+Without a noticable performance hit. (modified ^^)  
 
