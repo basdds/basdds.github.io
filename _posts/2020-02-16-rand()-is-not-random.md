@@ -7,7 +7,7 @@ A short story about PHP's rand():
 In [my second posts here](https://bas.rel.nl/2020/01/21/Raspberry-Pi-Photowall.html){:target="_blank"} I described my 3*2 screen 'piwall' setup, used 
 as a big 'photo-frame'.
 
-![image](/assets/images/piwall3.jpg)  
+![image](/assets/images/crypt.jpg)  
 
 However... I Noticed something was 'off' with the 'randomness' of the displayed pictures!
 
