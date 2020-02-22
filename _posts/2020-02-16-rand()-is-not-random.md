@@ -33,4 +33,4 @@ So my lessons learned are:
 
 * Your eyes and brain are *really good* at spotting non-randomness in a 6-screen picture slide-show! :-)  
 
-* I have to update all my Raspberry Pi's to a newer distro, running a  
+* I have to update all my (lan!) Raspberry Pi's to a newer distro, providing at least php 7.2! 
