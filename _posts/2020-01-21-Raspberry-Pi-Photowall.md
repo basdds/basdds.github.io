@@ -64,7 +64,7 @@ When cloning this repo, you'll only need the index.php and jquery.min.js file. T
 
 ==Update 16-02-20== 
 
-I found that [the rand() function was flawed](https://bas.rel.nl/2020/02/16/rand()-is-not-random.html) on the used distro provide) PHP version, running on my Pi's.. 
+I found that [the rand() function was flawed](https://bas.rel.nl/2020/02/16/rand()-is-not-random.html) on the used distro's PHP version, running on my Pi's.
 
 Replacing it with the random_int() function, increased the 'randomness' of the displayed pictures quite a bit! 
 Without a noticable performance hit.  
