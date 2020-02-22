@@ -33,4 +33,4 @@ So my lessons learned are:
 
 * Your eyes and brain are *really good* at spotting non-randomness in a 6-screen picture slide-show!  
 
-* 2do: Take a deeper dive into the [HRNG of my current Pi's](http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/){:target="_blank"}!
+* 2do: Look into the [HRNG of the Rasperry Pi!](http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/){:target="_blank"}!
