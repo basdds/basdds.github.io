@@ -9,18 +9,19 @@ for an 'audience' of thousands of corn plants. They called it 'The Cornfield ses
 
 Fast-forward 7 years later: 
 
-Now it's 2020 and all the band's gigs where cancelled last summer. Because of all the covid-19 restrictions in the Netherlands.
+Now it's 2020 and all the band's gigs where cancelled last summer. Because of the covid-19 restrictions in the Netherlands.
 
-So they decided to do a re-make of the Cornfield sessions, and I got to film it all:
+So they decided to do a re-make of the Cornfield sessions. And I got the 'job' of filming it all.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLb7l-J_gLXsRTuWGM5F99laOdJZaoZIWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The band members have changed over the years. Anno 2020 Bootsman is: 
 
 Addi Hoopman (bass)
-John Elburg (vocals, guitar)
-Luc Poels (guitar, backing vocals)
-Sascha Hartmann (percussion) 
 
-   
+John Elburg (vocals, guitar)
+
+Luc Poels (guitar, backing vocals)
+
+Sascha Hartmann (percussion) 
 
