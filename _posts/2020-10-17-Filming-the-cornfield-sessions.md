@@ -2,13 +2,13 @@
 layout: post
 author: Bas
 ---
-['The cornfield sessions!'](https://www.youtube.com/playlist?list=PLb7l-J_gLXsRTuWGM5F99laOdJZaoZIWs){:target="_blank"}
+Blog post on filming ['The cornfield sessions!'](https://www.youtube.com/playlist?list=PLb7l-J_gLXsRTuWGM5F99laOdJZaoZIWs){:target="_blank"}
 
 In 2013 the band Bootsman -John Elburg & Hans Matena at the time (*)- did a [live performance](https://www.gelderlander.nl/achterhoek/bootsman-en-the-cornfield-sessions~a17f0f5d/){:target="_blank"} 
 for an 'audience' of few thousands of corn plants; They called it 'The Cornfield sessions'. 
 
 I was the band's photographer and really had a lot of fun documenting this!
-
+	
 Fast-forward 7 years later: 
 
 Now it's 2020 and all the band's gigs where cancelled last summer.. Because of all the covid-19 restrictions in the Netherlands.
