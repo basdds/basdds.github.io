@@ -15,7 +15,8 @@ So they decided to do a re-make of the Cornfield sessions. And I got the 'job' o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLb7l-J_gLXsRTuWGM5F99laOdJZaoZIWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-My (band) photography hobby has shifted to doing video the last couple of years. Normally I just went to a gig with my DSLR and recorded it in one take. But this production was ...different... :-)
+
+My (band) photography hobby has shifted to doing video the last couple of years. Normally I just went to a gig with my DSLR and recorded it in one take. But this production was ..different!
 
 Some things I've learned during this production where:
 
