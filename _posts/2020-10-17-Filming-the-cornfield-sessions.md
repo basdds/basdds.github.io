@@ -9,7 +9,7 @@ for an 'audience' of few thousands of corn plants; They called it 'The Cornfield
 
 Fast-forward 7 years later: 
 
-Now it's 2020 and all the band's gigs where cancelled last summer.. Because of all the covid-19 restrictions in the Netherlands.
+Now it's the 13th of september 2020, and all the band's gigs where cancelled last summer. Because of the covid-19 restrictions in the Netherlands.
 
 So they decided to do a re-make of the Cornfield sessions. And I got the voluntary 'job' of filming it all. :-) 
 
