@@ -24,10 +24,10 @@ A few things I've learned during this production where:
 * Ditching 'OpenShot' as video editing software and learning [Davinci Resolve!](https://www.blackmagicdesign.com/products/davinciresolve/){:target="_blank"} 
 * I should get some variable ND filters! (filming in really harsh sunlight is tough!)
 * My old 550D gets overheated very quickly. 
-* Drones are cool! (**) 
 * Save your camera batteries, or get some spares! 
 * Let the band do a one-time 'rehearsal' of each song, before starting the recording.   
 * Having a great audio engineer (on-site and during post) is quite a luxury! (Addi!) 
+* Drone footage is cool! (**) 
 * Jack Daniels Tennessee Honey tastes great, after a long shoot!   
 
 
