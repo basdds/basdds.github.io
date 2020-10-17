@@ -13,7 +13,7 @@ Now it's 2020 and all the band's gigs where cancelled last summer. Because of al
 
 So they decided to do a re-make of the Cornfield sessions, and I got to film it all:
 
-<iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLb7l-J_gLXsRTuWGM5F99laOdJZaoZIWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLb7l-J_gLXsRTuWGM5F99laOdJZaoZIWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The band members have changed over the years. Anno 2020 Bootsman is: 
 
