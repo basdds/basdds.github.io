@@ -20,29 +20,22 @@ My (band) photography hobby has slowly shifted to doing video, the last couple o
 A few things I've learned during this production where:
 
 * Syncing external audio recordings to my video. (do the clap!) 
-
 * Using multiple camera sources and syncing this footage in 'post'.  
-
 * Ditching 'OpenShot' as video editing software and learning [Davinci Resolve!](https://www.blackmagicdesign.com/products/davinciresolve/){:target="_blank"} 
-
 * I should get some variable ND filters! (filming in really harsh sunlight is tough!)
-
 * My old 550D gets overheated very quickly. 
-
+* Drones are cool! (**) 
 * Save your camera batteries, or get some spares! 
-
 * Let the band do a one-time 'rehearsal' of each song, before starting the recording.   
-
-* Having a great audio engineer (on-site and during post) is quite a luxury! (thanx for the great sound Addi!) 
-
-* Jack Daniels Tennessee Honey tastes great after a long shoot! :-)   
+* Having a great audio engineer (on-site and during post) is quite a luxury! (Addi!) 
+* Jack Daniels Tennessee Honey tastes great, after a long shoot!   
 
 
-(*) Anno 2020 Bootsman is: 
+(*) Anno 2020; Bootsman is: 
 
 * Addi Hoopman (bass)
 * John Elburg (vocals, guitar)
 * Luc Poels (guitar, backing vocals)
 * Sascha Hartmann (percussion) 
 
-Awesome drone footage by: [@PaulvanDruten](http://paulvandruten.nl/){:target="_blank"} (Thanx Paul!!!) 
+(**) Awesome drone footage by: [@PaulvanDruten](http://paulvandruten.nl/){:target="_blank"} (Thanx Paul!!!) 
